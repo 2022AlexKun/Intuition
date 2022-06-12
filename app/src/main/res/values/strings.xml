@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Intuition</string>
+    <string name="zeroNumber">0</string>
+    <string name="green">Green</string>
+    <string name="red">Red</string>
+</resources>
